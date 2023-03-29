@@ -1,0 +1,12 @@
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojAssemblyReference.cache
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+D:\onedrive\Desktop\222\C Sharp\Project\Entity Framwork\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
